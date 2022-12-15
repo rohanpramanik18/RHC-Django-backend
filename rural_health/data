@@ -1,0 +1,60 @@
+{
+    "first_name": "vighnesh",
+    "last_name": "iyer",
+    "email": "ivthugz@gmail.com",
+    "phone_number": 7276956771,
+    "password": "Anikaa1@"
+}
+
+
+{
+    "first_name": "naitik",
+    "last_name": "vora",
+    "email": "naitikvora@gmail.com",
+    "password": "HelloWorld123"
+}
+
+{
+    "first_name": "rohan",
+    "last_name": "pramanik",
+    "email": "rohan@gmail.com",
+    "password": "HelloWorld123"
+}
+
+{
+    "first_name": "rohan",
+    "last_name": "babu",
+    "email": "rohanbabu@gmail.com",
+    "password": "HelloWorld123"
+}
+
+
+{
+    "first_name": "sagar",
+    "last_name": "dhande",
+    "email": "sagar@gmail.com",
+    "password": "HelloWorld123"
+}
+
+
+{        
+    "first_name":"Shubh", 
+    "last_name":"Dhar", 
+    "gender" : "M",
+    "phone_number" : "9284138413" ,
+    "id_proof" : "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" ,
+    "patient_pic" : "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=",
+    "password" : "Helloworld123"
+}
+
+#id = 13 for update method testing
+{        
+    "first_name":"Shubh", 
+    "last_name":"Dhar", 
+    "gender" : "M",
+    "phone_number" : "9284138413" ,
+    "id_proof" : "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" ,
+    "patient_pic" : "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=",
+    "password" : "Helloworld123",
+    "created_by" : 3
+}
